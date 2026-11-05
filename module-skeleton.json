@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-customer-accounts-react-native",
+  "capabilityKey": "planned:ecommerce:customer-accounts",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-customer-accounts-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/customer-accounts.md",
+  "presentationPlan": "projects/ecommerce/react-native/customer-accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
